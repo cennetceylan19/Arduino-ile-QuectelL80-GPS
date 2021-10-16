@@ -15,6 +15,6 @@ VCC ile veya harici bir pile VCC yedekleme (V_BCKP) (bu pine güç verilmezse ç
 
 ![image](https://user-images.githubusercontent.com/65015625/137583752-c4742d67-4405-4a15-85f5-736eab9966f8.png)
 
-tinyGPS++ kütüphanesi kullanılmıştır. Bu sayfadan indirip kurulumunu yapabilirsiniz. 
+tinyGPS++ kütüphanesi kullanılmıştır. Bu sayfadan indirip kurulumunu yapabilirsiniz. Ben de repostory'de kütüphanesini bulundurdum. İndirip kurulumunu yapmadığınız zaman kodlarda hata alabilirsiniz. İyi çalışmalar.
 
 http://arduiniana.org/libraries/tinygpsplus/
